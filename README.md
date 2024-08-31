@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics and Visualisation Bootcamp
 - 💞️ I’m looking to collaborate on the above Bootcamp
 - 📫 How to reach me : sunilduth.baichoo@gmail.com
-- 😄 Pronouns: Sunil
+- 😄 Pronouns: He
 - ⚡ Fun fact: Like visiting new places
 
 <!---
