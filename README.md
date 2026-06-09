@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunilduthBaichoo
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Data Analytics and Visualisation Bootcamp
+- 🌱 I’m pationate working on projects involving Data Analytics and Visualisation
 - 💞️ I’m looking to collaborate on the above Bootcamp
 - 📫 How to reach me : sunilduth.baichoo@gmail.com
 - 😄 Pronouns: He
